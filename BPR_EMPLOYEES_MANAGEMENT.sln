@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT", "BPR_EMPLOYEES_MANAGEMENT\BPR_EMPLOYEES_MANAGEMENT.csproj", "{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT_CORE", "BPR_EMPLOYEES_MANAGEMENT_CORE\BPR_EMPLOYEES_MANAGEMENT_CORE.csproj", "{0365E295-D96D-47DA-ABE2-B8A10617783B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT_INFRASTRUCTURE", "BPR_EMPLOYEES_MANAGEMENT_REPOSITORY\BPR_EMPLOYEES_MANAGEMENT_INFRASTRUCTURE.csproj", "{68B1D678-BFD2-471D-8A43-59064B81AF67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1DB4922F-5675-405A-988B-71BDE770E23C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\QueryCompanyDB.sql = ..\..\..\Downloads\QueryCompanyDB.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
