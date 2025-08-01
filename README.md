@@ -1,0 +1,2 @@
+Se ha realizado un api la cual consume por medio de MVC a todos los SP de la DB Company, valores parametrizados, correcto uso del patron MVC y arquitectura limpia y escalable por medio de bibliotec de clases, adicional se agregó LOGS por dia y tipificados por error e información.
+La DB cuenta con 2 SP el crud que por medio de operaciones es que actúa y el sp de la tabla de jerarquía, a nivel de JSON se puede visualizar dicha tabla.
