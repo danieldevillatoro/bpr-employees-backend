@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT", "BPR_EMPLOYEES_MANAGEMENT\BPR_EMPLOYEES_MANAGEMENT.csproj", "{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT_CORE", "BPR_EMPLOYEES_MANAGEMENT_CORE\BPR_EMPLOYEES_MANAGEMENT_CORE.csproj", "{0365E295-D96D-47DA-ABE2-B8A10617783B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPR_EMPLOYEES_MANAGEMENT_INFRASTRUCTURE", "BPR_EMPLOYEES_MANAGEMENT_REPOSITORY\BPR_EMPLOYEES_MANAGEMENT_INFRASTRUCTURE.csproj", "{68B1D678-BFD2-471D-8A43-59064B81AF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EDFECD-091E-40DD-B383-B8845FF4AEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0365E295-D96D-47DA-ABE2-B8A10617783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365E295-D96D-47DA-ABE2-B8A10617783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365E295-D96D-47DA-ABE2-B8A10617783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365E295-D96D-47DA-ABE2-B8A10617783B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B1D678-BFD2-471D-8A43-59064B81AF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B1D678-BFD2-471D-8A43-59064B81AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B1D678-BFD2-471D-8A43-59064B81AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B1D678-BFD2-471D-8A43-59064B81AF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

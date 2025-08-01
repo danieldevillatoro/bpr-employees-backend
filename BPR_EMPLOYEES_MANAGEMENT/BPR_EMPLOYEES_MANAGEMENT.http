@@ -1,0 +1,6 @@
+@BPR_EMPLOYEES_MANAGEMENT_HostAddress = http://localhost:5036
+
+GET {{BPR_EMPLOYEES_MANAGEMENT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
